@@ -1,1 +1,1 @@
-web: node public/assets/app.js
+web: node app.js
